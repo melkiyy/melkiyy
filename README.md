@@ -6,13 +6,14 @@
   
   - My telegram - [click](https://t.me/melkiyyf)
   - My website - [\*Be soon\*](https:/mltime.xyz)
-  - I speak English / Ukrainian / Russian
+  - I speak English / German / Russian
 
   
   # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
   <p align=center>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FCascading_Style_Sheets&psig=AOvVaw3EtQrLO7wU8ddIOC50tBhq&ust=1649591643362000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCmm_H1hvcCFQAAAAAdAAAAABAD"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   </p>
   
