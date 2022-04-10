@@ -5,7 +5,7 @@
   # 👋 Hello, that's github profile melkiyy / Привет, это github профиль melkiyy
   
   - My telegram - [click](https://t.me/melkiyyf)
-  - My website - [\*Be soon\*](http:/ml-time.xyz)
+  - My website - [\*Server\*](http:/ml-time.xyz)
   - I speak English / German / Russian
 
   
